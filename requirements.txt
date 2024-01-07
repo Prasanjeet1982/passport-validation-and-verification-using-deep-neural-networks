@@ -1,0 +1,11 @@
+# Example requirements.txt
+
+# Specific package versions
+tensorflow==2.7.0
+numpy==1.21.5
+Pillow==8.4.0
+
+# Other dependencies
+requests
+matplotlib
+scikit-learn
